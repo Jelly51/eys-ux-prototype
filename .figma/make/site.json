@@ -1,0 +1,10 @@
+{
+  "description": "Enhance your online dining experience with a user-friendly interface and seamless navigation, making it easier to explore menus and place orders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
